@@ -37,21 +37,12 @@ Users should be able to:
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - CSS Grid
 - Mobile-first workflow
 
 ### What I learned
 
-started: 10:18pm / Nov 27th
-ended: 11:13pm
-
-started: 1:50pm / Nov 29th
-(30 min tutorial)
-- 20 min for lunch
-ended: 3:24pm
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+I grew more familiar using CSS Grid! I had to take a break mid-project to review some tutorials on it which added to my project time. Overall, excluding the 30min tutorial time, it took about an hour and forty minutes to complete this challenge.
 
 ### Useful resources
 
