@@ -13,7 +13,7 @@ html {
 }
 
 body {
-    background-color: hsl(0, 0%, 81%);
+    background-color: #edf2f8;
     font-family: "Barlow Semi Condensed", sans-serif;
     font-weight: 500;
 }
@@ -21,7 +21,8 @@ body {
 /* testimonials */
 
 .container {
-    margin: 2em 2em;
+    margin: 2em;
+    min-height: 100vh;
 }
 
 .testimonial {
